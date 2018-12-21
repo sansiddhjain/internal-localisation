@@ -52,4 +52,5 @@ spencers_data/validation_data/
 real-time-location-tracking/
 best_mac_mod_logs/
 .*
+._.DS_Store
 /pip-selfcheck.json
