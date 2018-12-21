@@ -51,5 +51,5 @@ spencers_data/images/
 spencers_data/validation_data/
 real-time-location-tracking/
 best_mac_mod_logs/
-
+.*
 /pip-selfcheck.json
